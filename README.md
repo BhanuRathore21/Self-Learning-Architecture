@@ -1,3 +1,3 @@
 # Active Architecture for Self-Learning 
 
-Bhani - Software Engineer
+Bhanu - Software Engineer
