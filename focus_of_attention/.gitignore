@@ -1,0 +1,14 @@
+# Folders
+AIM/
+ICASSP Ryan/
+patches/
+test_patches/
+Super Mario Gym/
+Videos/
+
+# Files
+
+# Extensions
+/*.png
+/*.txt
+/*.zip
